@@ -1,0 +1,5 @@
+Audi;3.3;Hybrid
+Kia888+;1.8;Gasoline
+Acura;4.3;Hybrid
+Kia;1;Gasoline
+Honda;3.4;Gasoline
